@@ -1,4 +1,5 @@
-snigdhaos-asian-fonts-r331.bdb761c5
-snigdhaos-grub-theme-r15.3e36d6c
-snigdhaos-keyring-r332.68a02606
-snigdhaos-mirrorlist-r331.bdb761c5
+aic94xx-firmware-30
+ast-firmware-501
+mkinitcpio-firmware-1.4.0
+upd72020x-fw-1:1.0.0
+wd719x-firmware-1
