@@ -12,7 +12,7 @@
 #-----------------------------------------------------------
 
 # Set the name for the repository database
-repo_name="snigdhaos-core"
+repo_name="snigdhaos-extra"
 
 # Function to handle errors
 handle_error() {
