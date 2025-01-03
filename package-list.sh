@@ -10,7 +10,7 @@
 #-----------------------------------------------------------
 
 # GitHub API URL for the directory
-repo_url="https://api.github.com/repos/Snigdha-OS/snigdhaos-core/contents/x86_64"
+repo_url="https://api.github.com/repos/Snigdha-OS/snigdhaos-extra/contents/x86_64"
 
 # Output file
 output_file="packages.txt"
