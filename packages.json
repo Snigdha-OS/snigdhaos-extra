@@ -1,0 +1,31 @@
+[
+    {
+        "name": "aic94xx-firmware",
+        "version": "30",
+        "description": "Adaptec SAS 44300, 48300, 58300 Sequencer Firmware for AIC94xx driver"
+    },
+
+    {
+        "name": "ast-firmware",
+        "version": "501",
+        "description": "Aspeed VGA module from the IPMI"
+    },
+
+    {
+        "name": "mkinitcpio-firmware",
+        "version": "1.4.0",
+        "description": "Optional firmware for the default linux kernel to get rid of the annoying 'WARNING: Possibly missing firmware for module:' messages"
+    },
+
+    {
+        "name": "upd72020x-fw",
+        "version": "1.0.0",
+        "description": "Renesas uPD720201 / uPD720202 USB 3.0 chipsets firmware"
+    },
+
+    {
+        "name": "wd719x-firmware",
+        "version": "1",
+        "description": "Driver for Western Digital WD7193, WD7197 and WD7296 SCSI cards"
+    }
+]
