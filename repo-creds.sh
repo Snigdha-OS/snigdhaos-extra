@@ -1,4 +1,4 @@
-pacman-key --recv-key 93BC54415EA8E7AB --keyserver keyserver.ubuntu.com
-pacman-key --lsign-key 93BC54415EA8E7AB
+sudo pacman-key --recv-key 1CC586C7A25E47C5 --keyserver keyserver.ubuntu.com
+sudo pacman-key --lsign-key 1CC586C7A25E47C5
 pacman -U '#'
 pacman -U '@'

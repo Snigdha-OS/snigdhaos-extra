@@ -1,5 +1,0 @@
-aic94xx-firmware-30
-ast-firmware-501
-mkinitcpio-firmware-1.4.0
-upd72020x-fw-1:1.0.0
-wd719x-firmware-1
